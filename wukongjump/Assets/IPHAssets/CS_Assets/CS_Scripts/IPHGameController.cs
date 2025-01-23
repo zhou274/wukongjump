@@ -512,7 +512,7 @@ namespace InfiniteHopper
 			if ( gameOverCanvas )    
 			{
                 //Show the game over screen
-                ShowInterstitialAd("1lcaf5895d5l1293dc",
+                ShowInterstitialAd("6g8lpjudkm43k5flhd",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
